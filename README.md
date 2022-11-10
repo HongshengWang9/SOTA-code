@@ -1,1 +1,1 @@
-The code is what we reproduced rather than the authors released.
+The code of the compared approaches is what we reproduced rather than the authors released.
